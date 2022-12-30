@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya Verma-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-verma-311bb6184/)](https://www.linkedin.com/in/aditya-verma-311bb6184/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-verma-311bb6184/)](https://www.linkedin.com/in/aditya-verma-311bb6184/) 
 
 
 ## Skills
